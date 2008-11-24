@@ -2,7 +2,7 @@
 #   gem install sqlite3-ruby (not necessary on OS X Leopard)
 development:
   adapter:  postgresql
-  database: 9arrows_development
+  database: 9arrows_dev
   username: username
   password: password
   host:     localhost
